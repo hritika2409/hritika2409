@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wMsEDizZ_5yvelgLKQXWuooridXtvFBo/view?usp=sharing](https://drive.google.com/file/d/1wMsEDizZ_5yvelgLKQXWuooridXtvFBo/view?usp=sharing)
 
-- ⚡**I believe in the power of "Connecting" and "Creating".Everyone's unique "Ideation" can change into great "Invention"**
+- ⚡**I believe in the power of "Connecting" and "Creating".Everyone's unique "Ideation" can change into great "Innovation"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
