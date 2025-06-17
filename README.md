@@ -1,5 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hritika%20Sharan&fontSize=40&fontAlignY=35&desc=A%20Passionate%20Full-Stack%20Developer%20from%20India&descAlignY=60&descAlign=50" />
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hritika%20Sharan&fontSize=40&fontAlignY=35&desc=A%20Creative%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50" 
+    alt="Hritika Sharan Header"
+/>
 </p>
 
 
