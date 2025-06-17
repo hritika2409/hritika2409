@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hritika%20Sharan&fontSize=40&fontAlignY=35&desc=A%20Passionate%20Full-Stack%20Developer%20from%20India&descAlignY=60&descAlign=50" />
+
 <h1 align="center">Hi 👋, I'm Hritika Sharan</h1>
 <h3 align="center">A passionate Full-stack Developer from India</h3>
 
@@ -12,7 +14,7 @@
 🎯 I love building intuitive, responsive UIs and bringing designs to life with code.  
 🌐 Whether it’s a landing page, a full-stack web app, or a hackathon sprint — I’m always up for the challenge!
 
-- 🔭 I’m currently working on [Weather Dashboard]((https://weather-dashboard-three-beige.vercel.app/))
+- 🔭 I’m currently working on [Weather Dashboard](https://weather-dashboard-three-beige.vercel.app/)
 - 🌱 I’m currently learning **Web Development & DSA**
 - 👯 I’m looking to collaborate on **Buildspace projects**
 - 👨‍💻 My portfolio: [hritika2409.github.io/Portfolio](https://hritika2409.github.io/Portfolio/)
@@ -24,7 +26,7 @@
 
 ### 🚀 Notable Projects
 
-- 🛒 [Connect-4-dots](https://hritika2409.github.io/Connect-4-dots/): A sleek, interactive Connect 4 game built using CSS. This project showcases your skills in crafting dynamic user interactions and clean visual design.
+- 🛒 [Connect-4-dots](https://hritika2409.github.io/Connect-4-dots/): A sleek, interactive Connect 4 game built using CSS.
 - 💼 [Portfolio](https://hritika2409.github.io/Portfolio/): A sleek and personal developer portfolio.
 - 💬 **HerHealth Haven** (Buildspace): A women’s healthcare platform focused on privacy and community support.
 
@@ -33,7 +35,7 @@
 ### 🏆 Achievements
 
 - 👩‍💻 Contributor at **GirlScript Summer of Code 2024 (GSSoC)** — contributed to **open-source** projects and improved real-world collaboration skills.
-- 🌟 Selected from **32,000+** applicants for **Buildspace Nights & Weekends (S5)** .
+- 🌟 Selected from **32,000+** applicants for **Buildspace Nights & Weekends (S5)**
 - 👩‍💻 Participated in **Hacktoberfest 2024** — made multiple successful open-source contributions.
 - 🏆 3rd Place in Street Play at **IIT Kharagpur’s Spring Fest**
 - ♟️ Represented school at a **National-Level Chess Championship**
@@ -41,6 +43,7 @@
 ---
 
 ### 💻 Skills & Technologies
+
 <h3 align="left">🛠️ Skills & Technologies</h3>
 
 <p align="left">
@@ -74,8 +77,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40"/>
 </p>
 
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -94,10 +95,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hritika-sharan-9039b62a1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hritika Sharan | LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/hritika_sharan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hritika Sharan | Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
