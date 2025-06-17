@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hritika%20Sharan&fontSize=40&fontAlignY=35&desc=A%20Passionate%20Full-Stack%20Developer%20from%20India&descAlignY=60&descAlign=50" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hritika%20Sharan&fontSize=40&fontAlignY=35&desc=A%20Passionate%20Full-Stack%20Developer%20from%20India&descAlignY=60&descAlign=50" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Hritika Sharan</h1>
 <h3 align="center">A passionate Full-stack Developer from India</h3>
