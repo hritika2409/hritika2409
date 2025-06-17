@@ -32,7 +32,7 @@
 
 ### 🏆 Achievements
 
-- 👩‍💻 Contributor at GirlScript Summer of Code 2024 (GSSoC) — contributed to open-source projects and improved real-world collaboration skills.
+- 👩‍💻 Contributor at **GirlScript Summer of Code 2024 (GSSoC)** — contributed to **open-source** projects and improved real-world collaboration skills.
 - 🌟 Selected from **32,000+** applicants for **Buildspace Nights & Weekends (S5)** .
 - 👩‍💻 Participated in **Hacktoberfest 2024** — made multiple successful open-source contributions.
 - 🏆 3rd Place in Street Play at **IIT Kharagpur’s Spring Fest**
