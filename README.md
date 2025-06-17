@@ -1,10 +1,7 @@
 <p align="center">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Hritika%20Sharan&fontSize=45&fontAlignY=38&desc=A%20Creative%20Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50&fontColor=ffffff&descSize=20" 
-    alt="Hritika Sharan Header"
-/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hritika%20Sharan&fontSize=40&fontAlignY=35&desc=A%20Passionate%20Full-Stack%20Developer%20from%20India&descAlignY=60&descAlign=50" />
 </p>
+
 
 
 
