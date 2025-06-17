@@ -24,7 +24,7 @@
 
 ### 🚀 Notable Projects
 
-- 🛒 [Connect-4-dots]((https://hritika2409.github.io/Connect-4-dots/)): A sleek, interactive Connect 4 game built using CSS. This project showcases your skills in crafting dynamic user interactions and clean visual design.
+- 🛒 [Connect-4-dots](https://hritika2409.github.io/Connect-4-dots/): A sleek, interactive Connect 4 game built using CSS. This project showcases your skills in crafting dynamic user interactions and clean visual design.
 - 💼 [Portfolio](https://hritika2409.github.io/Portfolio/): A sleek and personal developer portfolio.
 - 💬 **HerHealth Haven** (Buildspace): A women’s healthcare platform focused on privacy and community support.
 
