@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on **Buildspace projects**
 - 👨‍💻 My portfolio: [hritika2409.github.io/Portfolio](https://hritika2409.github.io/Portfolio/)
 - 📫 Reach me at: **hritikasharan3@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1OUjhGr3dPeQKWPzBAGCCV6UFWl0-Gnu2/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1zPc3aelfceBXh-SiyOGr6fCbUTSIsSfN/view?usp=sharing)
 - ⚡ I believe in the power of *connecting* and *creating*. Every unique idea can become a powerful innovation.
 
 ---
