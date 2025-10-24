@@ -24,7 +24,7 @@
 🎯 I love building intuitive, responsive UIs and bringing designs to life with code.  
 🌐 Whether it’s a landing page, a full-stack web app, or a hackathon sprint — I’m always up for the challenge!
 
-- 🔭 I’m currently working on [Weather Dashboard](https://weather-dashboard-three-beige.vercel.app/)
+- 🔭 I’m currently working in A.P.Moller - Maersk
 - 🌱 I’m currently learning **Web Development & DSA**
 - 👯 I’m looking to collaborate on **Buildspace projects**
 - 👨‍💻 My portfolio: [hritika2409.github.io/Portfolio](https://hritika2409.github.io/Portfolio/)
